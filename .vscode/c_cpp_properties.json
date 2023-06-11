@@ -4,9 +4,9 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/ubuntu/anaconda3/envs/cppcuda/include/python3.8",
-                "/home/ubuntu/anaconda3/envs/cppcuda/lib/python3.8/site-packages/torch/include",
-                "/home/ubuntu/anaconda3/envs/cppcuda/lib/python3.8/site-packages/torch/include/torch/csrc/api/include"
+                "/home/lwh/anaconda3/envs/ngp_pl/include/python3.8",
+                "/home/lwh/anaconda3/envs/ngp_pl/lib/python3.8/site-packages/torch/include",
+                "/home/lwh/anaconda3/envs/ngp_pl/lib/python3.8/site-packages/torch/include/torch/csrc/api/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
